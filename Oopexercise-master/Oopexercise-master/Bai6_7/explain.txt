@@ -1,0 +1,4 @@
+Animal animal4 = new Animal();
+dòng này sai vì abtract ko thể tạo một cái object được
+Cat cat2 = (Cat)animal2;
+sai vì animal2 thuộc lớp Dog
